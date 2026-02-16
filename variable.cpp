@@ -22,5 +22,17 @@ int main(){
     int month = 6;
     double day = 15.7;
 
-    std::cout << "Today is " << year << '-' << month << '-' << day << '\n';
+
+    // char grade = 'B';
+    // std::cout << grade;
+    // char currency = '$';
+    // std::cout << currency;
+
+    bool isRaining = false;
+    bool power = true;
+    std::cout << isRaining << '\n';
+    std::cout << power << '\n';
+
+    std::string name = "Alireza";
+    std::cout << name << '\n';
 }
